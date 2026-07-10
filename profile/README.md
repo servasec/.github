@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="frontend/public/assets/servasec-mark.svg">
-    <img src="frontend/public/assets/servasec-mark.svg" alt="servasec" width="100" height="100">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/servasec-mark.svg">
+    <img src="assets/servasec-mark.svg" alt="servasec" width="100" height="100">
   </picture>
 </p>
 
