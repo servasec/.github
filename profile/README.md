@@ -8,13 +8,11 @@
 <h1 align="center">servasec</h1>
 
 <p align="center">
-  <a href="https://discord.gg/jqFmBEPQz"><img src="https://img.shields.io/badge/chat-Discord-5865F2" alt="Discord"></a>
+  <a href="https://discord.gg/wJZ2v5YNtD"><img src="https://img.shields.io/badge/chat-Discord-5865F2" alt="Discord"></a>
 </p>
 
-**Application Security Posture Management (ASPM)** platform that aggregates SAST/DAST/SCA scanner findings into a unified dashboard for triaging, tracking, and remediating security vulnerabilities across your application portfolio.
+**servasec is the open source Application Security Posture Management (ASPM) platform.** We aggregate SAST, SCA, DAST, and secrets findings from 16+ scanners into a unified dashboard — a lightweight, modern alternative to DefectDojo and Dependency-Track that you can self-host with one command.
 
-## Links
+## Flagship project
 
-- [Official repository](https://github.com/servasec/servasec)
-- [Documentation](https://docs.servasec.com)
-- [Website](https://servasec.com)
+- **servasec** — Open source ASPM: findings lifecycle, EPSS risk scoring, version comparison, native scanner ingestion, MCP Server. [Repository](https://github.com/servasec/servasec) · [Docs](https://docs.servasec.com) · [Website](https://servasec.com)
