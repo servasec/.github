@@ -9,7 +9,6 @@
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/servasec/appguard.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/stars/servasec/appguard.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture>
-<a style="text-decoration:none" href="https://github.com/servasec/appguard/releases" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/release/servasec/appguard.svg?size=sm&amp;mode=dark"><img alt="Release" src="https://www.shieldcn.dev/github/release/servasec/appguard.svg?size=sm&amp;mode=light"></picture></a>
 <a href="https://discord.com/invite/wJZ2v5YNtD" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/discord/members/wJZ2v5YNtD.svg?variant=secondary&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/discord/members/wJZ2v5YNtD.svg?variant=secondary&amp;mode=light"></picture></a>
 </p>
 
