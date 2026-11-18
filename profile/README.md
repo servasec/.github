@@ -17,13 +17,6 @@ Servasec is a cybersecurity company. We build tooling for application security t
 
 ### appguard
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/servasec/appguard/main/frontend/public/assets/appguard-mark.svg">
-    <img src="https://raw.githubusercontent.com/servasec/appguard/main/frontend/public/assets/appguard-mark.svg" alt="appguard" width="72" height="72">
-  </picture>
-</p>
-
 **Open source Application Security Posture Management (ASPM).** AppGuard aggregates SAST, SCA, DAST, and secrets findings from many scanners into a unified dashboard.
 
 - Findings lifecycle, EPSS risk scoring, version comparison
@@ -34,3 +27,4 @@ Servasec is a cybersecurity company. We build tooling for application security t
 
 ### extrack
 
+**Closed source EASM**. Feel free to discover it <a href="https://servasec.com/solutions" target="_blank">here</a>
