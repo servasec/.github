@@ -8,7 +8,6 @@
 <h1 align="center">servasec</h1>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/servasec/appguard.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/stars/servasec/appguard.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture>
 <a href="https://discord.com/invite/wJZ2v5YNtD" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/discord/members/wJZ2v5YNtD.svg?variant=secondary&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/discord/members/wJZ2v5YNtD.svg?variant=secondary&amp;mode=light"></picture></a>
 </p>
 
@@ -16,7 +15,7 @@ Servasec is a cybersecurity company. We build tooling for application security t
 
 ## Solutions
 
-### AppGuard
+### appguard
 
 <p align="center">
   <picture>
@@ -32,3 +31,6 @@ Servasec is a cybersecurity company. We build tooling for application security t
 - Self-hosted in one command, Pro tier with SSO, audit log and advanced reporting
 
 [Repository](https://github.com/servasec/appguard) · [Docs](https://docs.servasec.com) · [Website](https://servasec.com)
+
+### extrack
+
